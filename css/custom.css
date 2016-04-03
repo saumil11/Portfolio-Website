@@ -1,0 +1,16 @@
+/* For mobile phones: */
+#me{
+		width: 300px;
+		height: 300px;
+	}
+@media only screen and (min-width: 600px) {
+    /* For tablets: */
+    
+}
+@media only screen and (min-width: 768px) {
+    /* For desktop: */
+    #me{
+		width: 400px;
+		height: 400px;
+	}
+}
